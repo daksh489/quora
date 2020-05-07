@@ -16,3 +16,5 @@
     F1-Scores:
         Logistic: 0.59
         Keras: 0.66
+### Kaggle link for data set and embeddings:
+    https://www.kaggle.com/c/quora-insincere-questions-classification
