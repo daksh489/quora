@@ -1,5 +1,6 @@
-# Quora
-    I have text data sets of quora questions and target variable denoting the sincerity of the question.
+# Quora Insincere Questions
+    Description:
+        Data set contains text of quora questions and target variable denoting the sincerity of the question.
         Train Data Set Size: 1.3M
         Test Data Set Size: 375K
     
@@ -16,5 +17,6 @@
 ### F1-Scores:
         Logistic: 0.59
         Keras: 0.66
+
 ### Kaggle link for data set and embeddings:
     https://www.kaggle.com/c/quora-insincere-questions-classification
